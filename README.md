@@ -42,8 +42,8 @@ The goal of this project was to eliminate manual order entry and provide 24/7 cu
 
 I have included the formal business and product documentation for this project:
 
-* [Business Requirements Document (BRD)](./BRD.md)
-* [Product Requirements Document (PRD)](./PRD.md)
+* [Business Requirements Document (BRD)](./Business Requirements Document (BRD).md)
+* [Product Requirements Document (PRD)](./Product Requirements Document (PRD).md)
 
 ---
 
