@@ -1,4 +1,4 @@
-# DineBot: AI-Powered Restaurant Order & Inventory Engine 🍔
+# AI-Powered Restaurant Order & Inventory Engine 🍔
 
 DineBot is an end-to-end automation solution built with **n8n** that transforms a standard WhatsApp chat into a fully functional restaurant management system. By leveraging **Google Gemini AI**, it handles natural language ordering, customer FAQs, and real-time inventory synchronization via **Google Sheets**.
 
